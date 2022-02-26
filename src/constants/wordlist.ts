@@ -34,6 +34,6 @@ export const WORDS = [
   'human', 
   'viral', 
   'ideal', 
-  'lower’,
+  'lower’
 
 ]
